@@ -54,3 +54,32 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
+.signin-option {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.signin-option p {
+    font-size: 14px;
+    color: #333;
+}
+
+.signin-option a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.signin-option a:hover {
+    text-decoration: underline;
+}
+.error-message {
+    color: red;
+    margin: 10px 0;
+}
+
+.success-message {
+    color: green;
+    margin: 10px 0;
+}
